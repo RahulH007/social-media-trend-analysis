@@ -238,18 +238,7 @@ The project uses **VADER** (Valence Aware Dictionary and sEntiment Reasoner) by 
 - **Docker Compose** — Container orchestration for Kafka infrastructure
 - **WordCloud** — Word frequency visualization
 
----
 
-## 🤝 Contributing
-
-This is an academic project. Feel free to extend it with:
-- Real Twitter/Reddit API integration (replace the simulator)
-- MongoDB or PostgreSQL storage backend
-- Apache Flink as an alternative stream processor
-- Transformer-based sentiment (HuggingFace `distilbert`)
-- Kubernetes deployment manifests
-
----
 
 ## 📜 License
 
