@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.venv/
+*.egg
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Output data (regenerated at runtime)
+output/
+*.csv
+
+# Spark
+/tmp/spark-*
+metastore_db/
+derby.log
+spark-warehouse/
+
+# Logs
+*.log
+pipeline.log
+
+# Docker
+docker-compose.override.yml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Sample data (regenerated)
+sample_data/sample_posts.json
