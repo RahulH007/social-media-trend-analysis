@@ -237,9 +237,3 @@ The project uses **VADER** (Valence Aware Dictionary and sEntiment Reasoner) by 
 - **Pandas** — Data manipulation and CSV I/O
 - **Docker Compose** — Container orchestration for Kafka infrastructure
 - **WordCloud** — Word frequency visualization
-
-
-
-## 📜 License
-
-This project is for educational purposes. All code is provided as-is for learning Big Data concepts.
